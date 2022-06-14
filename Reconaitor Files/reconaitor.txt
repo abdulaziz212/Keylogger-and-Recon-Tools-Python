@@ -1,0 +1,8 @@
+Results for: iau.edu.sa
+IP: 91.227.24.32
+City: Khobar
+Region: Eastern Province
+Country: SA
+Geo location address: 26.2794,50.2083
+Organization: AS56714 Imam Abdulrahman Bin Faisal University
+Timezone: Asia/Riyadh
